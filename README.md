@@ -4,7 +4,8 @@
 **Hue0627/Hue0627** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-I am a QA Analyst with 4 years of experience in manual and regression testing, backed by a 6-year foundation in IT Technical Support. I bridge the gap between technical troubleshooting and user-centric quality assurance.
+
+## I am a QA Analyst with 4 years of experience in manual and regression testing, backed by a 6-year foundation in IT Technical Support. I bridge the gap between technical troubleshooting and user-centric quality assurance.
 - 🔭 I’m currently working on enhancing my portfolio and documenting test cases for agentic AI systems.
 - 🌱 I’m currently learning Automated Testing (Selenium/Cypress) and Python for QA scripting.
 - 👯 I’m looking to collaborate on Open Source projects that need rigorous manual testing or UI/UX validation.
